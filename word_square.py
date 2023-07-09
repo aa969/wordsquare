@@ -1,4 +1,4 @@
-from collections import Counter, deque, defaultdict
+from collections import Counter, deque
 
 # Open and read the file containing valid words, storing the words in a set called '_words'.
 with open('valid_words.txt', 'r') as dictionary_of_valid_words:
