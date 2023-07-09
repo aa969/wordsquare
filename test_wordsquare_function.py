@@ -1,9 +1,7 @@
 import unittest
-from io import StringIO
-import sys
 from collections import Counter
 
-from word_square import Trie, wordsquare, possible
+from word_square import Trie, possible
 
 
 class TestWordSquare(unittest.TestCase):
